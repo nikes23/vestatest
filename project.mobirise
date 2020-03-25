@@ -45,7 +45,13 @@
     "favicon": "@PROJECT_PATH@/assets/images/packlist-icon-128x128.png",
     "noImageResize": "",
     "screenshot": "screenshot.png",
-    "imageResize": true
+    "imageResize": true,
+    "robotsSwitcher": false,
+    "sitemapSwitcher": false,
+    "sitemapSwitcherAuto": false,
+    "siteUrl": false,
+    "cookiesAlert": false,
+    "gdpr": false
   },
   "pages": {
     "index.html": {
